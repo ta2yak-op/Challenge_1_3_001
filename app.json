@@ -1,0 +1,7 @@
+{
+    "name": "Start on Heroku: Ruby",
+    "description": "Code Scores Challenge Application",
+    "image": "heroku/ruby",
+    "repository": "https://github.com/ta2yak/Challenge_1_3_001",
+    "keywords": ["code-scores" ]
+}
